@@ -1,0 +1,27 @@
+{
+  "name": "lab-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qusai-alhanaktah/lab-12.git"
+  },
+  "author": "qusai-alhanaktah && raed-alrfou3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qusai-alhanaktah/lab-12/issues"
+  },
+  "homepage": "https://github.com/Qusai-alhanaktah/lab-12#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^7.17.0",
+    "superagent": "^5.1.3"
+  }
+}
